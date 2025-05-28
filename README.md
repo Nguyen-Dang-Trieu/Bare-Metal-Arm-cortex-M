@@ -1,1 +1,3 @@
-# Bare-Metal-Arm-cortex-M
+# Bare-Metal Arm Cortex-M
+
+Ghi chú: 
